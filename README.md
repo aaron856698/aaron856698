@@ -1,22 +1,24 @@
 <h1 align="center">👋 Hola, soy Aaron Garcen</h1>
-<h3 align="center">Programador FullStack • Web Developer • Estudiante de Ciberseguridad</h3>
+<h3 align="center">FullStack Developer • Web Developer • Estudiante de Ciberseguridad</h3>
 
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Comencé a estudiar programación en **Coder**  
-- 💻 Me recibí como **Programador FullStack**  
+- 🎓 Inicié mi camino en la programación estudiando en **Coder**
+- 💻 Me recibí como **Programador FullStack**
 - 🏫 Actualmente curso la **Licenciatura en Informática**
 - 🛡️ Estudiante **autodidacta de Ciberseguridad**
-- 🐍 Experiencia en **Python, JavaScript, Bash y desarrollo web**
-- 📚 Enfocado en hardening, pentesting básico y seguridad web
+- ⚛️ Experiencia en **React**, desarrollo de interfaces modernas y SPA
+- 🔙 Backend con **Node.js**, **Express**, APIs REST y lógica de servidor
+- 🐍 Experiencia en **Python**, scripting y automatización
+- 🐧 Manejo de **Linux** y **Bash**, aplicados a sysadmin y seguridad
 
 ---
 
 ## 🧰 Tech Stack (con logos grandes)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,bash,linux,html,css,nodejs,git" width="500" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,bash,linux,html,css,express,mongodb,git" width="650" />
 </p>
 
 ---
@@ -27,9 +29,17 @@
   <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,regex" width="400" />
 </p>
 
-- 🕵️‍♂️ Interés en: **Pentesting Web, Seguridad en APIs, OSINT, Automatización de auditorías**
-- 📌 Trabajando en: scripts de reconocimiento, escaneos automatizados y recolección de información
-- 🧪 Aprendiendo: *OWASP Top 10, BurpSuite, Metasploit, Nmap, Wireshark*
+- 🕵️‍♂️ Enfoque en **Pentesting Web**, seguridad en APIs y análisis de vulnerabilidades  
+- 📌 Trabajo en:  
+  - Scripts de reconocimiento  
+  - Automatización de escaneos (Python / Bash)  
+  - Recolección de información  
+- 🧪 Aprendiendo:  
+  - *OWASP Top 10*  
+  - *BurpSuite*  
+  - *Nmap*  
+  - *Wireshark*  
+  - *Metasploit*  
 
 ---
 
@@ -47,11 +57,16 @@
 - 🔍 **Herramientas de Ciberseguridad**
   - Scripts de reconocimiento
   - Automatización en Bash
-  - Análisis de endpoints y seguridad básica
+  - Análisis básico de endpoints y seguridad
 
-- 🌐 **Desarrollo Web**
-  - APIs con Node.js / Python
-  - Mini apps fullstack
+- ⚛️ **Frontend / React**
+  - Interfaces modernas con React + Hooks
+  - Integración con APIs
+
+- 🔙 **Backend**
+  - APIs REST con Node.js y Express  
+  - Autenticación básica y middleware  
+  - Conexiones con MongoDB / MySQL  
 
 ---
 
@@ -63,5 +78,4 @@
 
 ---
 
-⭐ *Si querés, te lo paso en versión “hacker style”, con ASCII art, modo oscuro total o secciones animadas.*  
-¿Querés que agregue un banner arriba?
+¿Querés que también agregue **badges animados**, un **banner estilo hacker**, o una **sección de certificaciones / estudios futuros en ciberseguridad**?
