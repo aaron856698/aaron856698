@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Papito Lindo (Aaron Garcen)</h1>
+<h1 align="center">👋 Hola, soy Aaron Garcen</h1>
 <h3 align="center">Programador FullStack • Web Developer • Estudiante de Ciberseguridad</h3>
 
 ---
