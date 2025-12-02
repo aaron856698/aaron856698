@@ -1,12 +1,14 @@
-<h1 align="center">👋 Hola, soy Papito Lindo</h1>
-<h3 align="center">Programador • Web Developer • Aspirante a Ciberseguridad</h3>
+<h1 align="center">👋 Hola, soy Papito Lindo (Aaron Garcen)</h1>
+<h3 align="center">Programador FullStack • Web Developer • Estudiante de Ciberseguridad</h3>
 
 ---
 
 ## 🚀 Sobre mí
-- 💻 Programador con experiencia en **Python, JavaScript, Bash y desarrollo web**
-- 🛡️ En transición profesional hacia la **Ciberseguridad**
-- 🐍 Automación, scripting, devtools y análisis
+- 🎓 Comencé a estudiar programación en **Coder**  
+- 💻 Me recibí como **Programador FullStack**  
+- 🏫 Actualmente curso la **Licenciatura en Informática**
+- 🛡️ Estudiante **autodidacta de Ciberseguridad**
+- 🐍 Experiencia en **Python, JavaScript, Bash y desarrollo web**
 - 📚 Enfocado en hardening, pentesting básico y seguridad web
 
 ---
@@ -26,7 +28,7 @@
 </p>
 
 - 🕵️‍♂️ Interés en: **Pentesting Web, Seguridad en APIs, OSINT, Automatización de auditorías**
-- 📌 Trabajando en: scripts de análisis, escaneos automatizados y técnicas de evasión básicas
+- 📌 Trabajando en: scripts de reconocimiento, escaneos automatizados y recolección de información
 - 🧪 Aprendiendo: *OWASP Top 10, BurpSuite, Metasploit, Nmap, Wireshark*
 
 ---
@@ -45,7 +47,7 @@
 - 🔍 **Herramientas de Ciberseguridad**
   - Scripts de reconocimiento
   - Automatización en Bash
-  - Análisis de endpoints
+  - Análisis de endpoints y seguridad básica
 
 - 🌐 **Desarrollo Web**
   - APIs con Node.js / Python
@@ -61,5 +63,5 @@
 
 ---
 
-⭐ *Si querés, te lo ajusto aún más: colores, estilo, agregar badges, incluir tu foto, o armar otro más orientado solo a ciberseguridad.*  
-¿Lo querés con un diseño más oscuro, más minimalista o más “hacker style”?
+⭐ *Si querés, te lo paso en versión “hacker style”, con ASCII art, modo oscuro total o secciones animadas.*  
+¿Querés que agregue un banner arriba?
