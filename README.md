@@ -1,21 +1,21 @@
 <h1 align="center">👋 Hola, soy Aaron Garcen</h1>
-<h3 align="center">FullStack Developer • Web Developer • Estudiante de Ciberseguridad</h3>
+<h3 align="center">FullStack Developer • Web Developer • Entusiasta de la Ciberseguridad</h3>
 
 ---
 
 ## 🚀 Sobre mí
 - 🎓 Inicié mi camino en la programación estudiando en **Coder**
 - 💻 Me recibí como **Programador FullStack**
-- 🏫 Actualmente curso la **Licenciatura en Informática**
-- 🛡️ Estudiante **autodidacta de Ciberseguridad**
-- ⚛️ Experiencia en **React**, desarrollo de interfaces modernas y SPA
+- 🏫 Actualmente curso **1er año de la Licenciatura en Informática**
+- 🛡️ **Autodidacta en Ciberseguridad** (mi hobby principal)
+- ⚛️ Experiencia en **React**, creación de interfaces modernas y SPA
 - 🔙 Backend con **Node.js**, **Express**, APIs REST y lógica de servidor
-- 🐍 Experiencia en **Python**, scripting y automatización
-- 🐧 Manejo de **Linux** y **Bash**, aplicados a sysadmin y seguridad
+- 🐍 Manejo de **Python** para scripting y automatización
+- 🐧 Experiencia en **Linux** y **Bash**, orientado a administración y seguridad
 
 ---
 
-## 🧰 Tech Stack (con logos grandes)
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,bash,linux,html,css,express,mongodb,git" width="650" />
@@ -23,18 +23,18 @@
 
 ---
 
-## 🔐 Enfoque en Ciberseguridad
+## 🔐 Ciberseguridad (Mi Hobby)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,regex" width="400" />
 </p>
 
-- 🕵️‍♂️ Enfoque en **Pentesting Web**, seguridad en APIs y análisis de vulnerabilidades  
-- 📌 Trabajo en:  
+- 🕵️‍♂️ Interés en **Pentesting Web**, seguridad en APIs y análisis de vulnerabilidades  
+- 📌 Trabajo como hobby en:  
   - Scripts de reconocimiento  
   - Automatización de escaneos (Python / Bash)  
   - Recolección de información  
-- 🧪 Aprendiendo:  
+- 🧪 Actualmente aprendiendo:  
   - *OWASP Top 10*  
   - *BurpSuite*  
   - *Nmap*  
@@ -54,10 +54,10 @@
 
 ## 🛠️ Proyectos Destacados
 
-- 🔍 **Herramientas de Ciberseguridad**
+- 🔍 **Herramientas de Ciberseguridad (Hobby)**
   - Scripts de reconocimiento
   - Automatización en Bash
-  - Análisis básico de endpoints y seguridad
+  - Análisis básico de endpoints
 
 - ⚛️ **Frontend / React**
   - Interfaces modernas con React + Hooks
@@ -75,7 +75,3 @@
 <p align="center">
   <a href="https://github.com/papitolindo"><img src="https://skillicons.dev/icons?i=github" width="60" /></a>
 </p>
-
----
-
-¿Querés que también agregue **badges animados**, un **banner estilo hacker**, o una **sección de certificaciones / estudios futuros en ciberseguridad**?
