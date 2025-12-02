@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Aaron Garcen</h1>
-<h3 align="center">FullStack Developer • Web Developer • Entusiasta de la Ciberseguridad</h3>
+<h3 align="center">💻 FullStack Developer • 🖥️ Web Developer • 🧙‍♂️ Ciberseguridad como Hobby</h3>
 
 ---
 
@@ -7,7 +7,7 @@
 - 🎓 Inicié mi camino en la programación estudiando en **Coder**
 - 💻 Me recibí como **Programador FullStack**
 - 🏫 Actualmente curso **1er año de la Licenciatura en Informática**
-- 🛡️ **Autodidacta en Ciberseguridad** (mi hobby principal)
+- 🧙‍♂️ **Autodidacta en Ciberseguridad** (mi hobby principal)
 - ⚛️ Experiencia en **React**, creación de interfaces modernas y SPA
 - 🔙 Backend con **Node.js**, **Express**, APIs REST y lógica de servidor
 - 🐍 Manejo de **Python** para scripting y automatización
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔐 Ciberseguridad (Mi Hobby)
+## 🔐 Ciberseguridad (Mi Hobby) 🧙‍♂️
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,raspberrypi,git,regex" width="400" />
@@ -43,25 +43,16 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=papitolindo&show_icons=true&theme=tokyonight&cache_seconds=3600" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=papitolindo&layout=compact&theme=tokyonight&cache_seconds=3600" height="170" />
-</p>
-
----
-
 ## 🛠️ Proyectos Destacados
 
-- 🔍 **Herramientas de Ciberseguridad (Hobby)**
-  - Scripts de reconocimiento
-  - Automatización en Bash
-  - Análisis básico de endpoints
+- 🧙‍♂️ **Herramientas de Ciberseguridad (Hobby)**
+  - Scripts de reconocimiento  
+  - Automatización en Bash  
+  - Análisis básico de endpoints  
 
 - ⚛️ **Frontend / React**
-  - Interfaces modernas con React + Hooks
-  - Integración con APIs
+  - Interfaces modernas con React + Hooks  
+  - Integración con APIs  
 
 - 🔙 **Backend**
   - APIs REST con Node.js y Express  
