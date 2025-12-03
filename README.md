@@ -22,11 +22,11 @@
 </p>
 
 <p align="center">
-  <!-- VMware -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.svg" width="60" />
-  
+  <!-- VMware Workstation icon (versión pública .svg) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Vmware_workstation_16_icon.svg" width="60" alt="VMware Workstation Logo" />
+
   <!-- VirtualBox -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="60" alt="VirtualBox Logo" />
 </p>
 
 ---
@@ -38,16 +38,16 @@
 </p>
 
 - 🕵️‍♂️ Interés en **Pentesting Web**, seguridad en APIs y análisis de vulnerabilidades  
-- 📌 Trabajo como hobby en:  
+- 📌 Trabajo como hobby en:
   - Scripts de reconocimiento  
   - Automatización de escaneos (Python / Bash)  
   - Recolección de información  
-- 🧪 Actualmente aprendiendo:  
-  - *OWASP Top 10*  
-  - *BurpSuite*  
-  - *Nmap*  
-  - *Wireshark*  
-  - *Metasploit*  
+- 🧪 Actualmente aprendiendo:
+  - *OWASP Top 10*
+  - *BurpSuite*
+  - *Nmap*
+  - *Wireshark*
+  - *Metasploit*
 
 ---
 
