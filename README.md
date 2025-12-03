@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <!-- VMware Workstation icon (versión pública .svg) -->
+  <!-- VMware Workstation (funcional) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Vmware_workstation_16_icon.svg" width="60" alt="VMware Workstation Logo" />
 
   <!-- VirtualBox -->
