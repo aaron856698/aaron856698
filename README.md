@@ -18,7 +18,15 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,bash,linux,html,css,express,mongodb,git" width="650" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,bash,linux,html,css,express,mongodb,git,docker" width="750" />
+</p>
+
+<p align="center">
+  <!-- VMware -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware_workstation_16_icon.svg" width="60" />
+  
+  <!-- VirtualBox -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="60" />
 </p>
 
 ---
