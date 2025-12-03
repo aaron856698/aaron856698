@@ -22,11 +22,8 @@
 </p>
 
 <p align="center">
-  <!-- VMware (FUNCIONA) -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/vmware.svg" width="60" alt="VMware Logo" />
-
-  <!-- VirtualBox (FUNCIONA) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/VirtualBox_Logo.png" width="60" alt="VirtualBox Logo" />
+  <!-- VirtualBox (FUNCIONANDO) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png" width="60" alt="VirtualBox Logo" />
 </p>
 
 ---
